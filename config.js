@@ -12,24 +12,24 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['ArullBotzMD']
-global.namaowner = ['ArullOfc']
-global.owner = ['6285822347348']
-global.premium = ['6285822347348']
-global.packname = 'Sticker By'
-global.author = 'ArullOfc'
-global.sessionName = 'zxyn'
+global.namabot = ['Rain Cowokkullな']
+global.namaowner = ['Rain Cowokkullな']
+global.owner = ['6282274499424']
+global.premium = ['6282274499424']
+global.packname = 'Rain Cowokkullな'
+global.author = 'Rain Cowokkulな'
+global.sessionName = 'Rain Cowokkullな'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: '```Done, Sayang !```',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: '```Tunggu Sebentar Sayang !```',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
